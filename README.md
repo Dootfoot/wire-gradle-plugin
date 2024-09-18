@@ -1,4 +1,4 @@
-Wire Gradle Plugin
+ru Wire Gradle Plugin
 ==================
 
 Deprecated!
